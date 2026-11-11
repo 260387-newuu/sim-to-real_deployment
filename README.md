@@ -4,6 +4,8 @@ Installation instructions are adapted from the official HybridRobotics [motion_t
 
 ## Installation
 
+<video src="videos/test_policy_1.webm" controls width="800"></video>
+
 ### System Requirements
 
 The deployment setup was tested on:
