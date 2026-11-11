@@ -1,5 +1,7 @@
 # HybridRobotics' ROS2 deployment guide
 
+Installation instructions are adapted from the official HybridRobotics [motion_tracking_controller](https://github.com/HybridRobotics/motion_tracking_controller) repository.
+
 ## Installation
 
 ### System Requirements
